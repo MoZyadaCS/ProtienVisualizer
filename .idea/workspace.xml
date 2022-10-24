@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b0d65dd-8e97-46e3-84de-9fd9c054e9fb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B3Frsp5cdUdMyQdcYW7WjpqFUb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mostafa zyada\eclipse-workspace\ProtienVisualizer\src" />
+      <recent name="C:\Users\mostafa zyada\eclipse-workspace\ProtienVisualizer\src\main\java\com\example\protienvisualizer" />
+      <recent name="C:\Users\mostafa zyada\eclipse-workspace\ProtienVisualizer\src\main\java\com\example\protienvisualizer\filemanagment" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.protienvisualizer.Application" />
+      <module name="ProtienVisualizer" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\mostafa zyada\Downloads\Compressed\openjfx-18.0.1_windows-x64_bin-sdk\javafx-sdk-18.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b0d65dd-8e97-46e3-84de-9fd9c054e9fb" name="Changes" comment="" />
+      <created>1656127065809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656127065809</updated>
+      <workItem from="1656127067737" duration="8372000" />
+      <workItem from="1656148548970" duration="689000" />
+      <workItem from="1656222574464" duration="72000" />
+      <workItem from="1656231766438" duration="2869000" />
+      <workItem from="1656242021568" duration="3323000" />
+      <workItem from="1656248344845" duration="254000" />
+      <workItem from="1656306448180" duration="13000" />
+      <workItem from="1656404577613" duration="2704000" />
+      <workItem from="1656418219059" duration="4941000" />
+      <workItem from="1656425635898" duration="2147000" />
+      <workItem from="1656433331206" duration="333000" />
+      <workItem from="1656468398896" duration="1140000" />
+      <workItem from="1656580993612" duration="1196000" />
+      <workItem from="1656614946621" duration="454000" />
+      <workItem from="1656913267788" duration="12062000" />
+      <workItem from="1656936955004" duration="887000" />
+      <workItem from="1656944588448" duration="612000" />
+      <workItem from="1657140240260" duration="3234000" />
+      <workItem from="1657199325068" duration="3000" />
+      <workItem from="1657801018644" duration="7685000" />
+      <workItem from="1657827967134" duration="13415000" />
+      <workItem from="1657914977181" duration="4380000" />
+      <workItem from="1658076537006" duration="2581000" />
+      <workItem from="1658195095787" duration="5325000" />
+      <workItem from="1658246894166" duration="1196000" />
+      <workItem from="1658307569268" duration="11556000" />
+      <workItem from="1658337927881" duration="6574000" />
+      <workItem from="1658388677683" duration="4221000" />
+      <workItem from="1666649590428" duration="119000" />
+      <workItem from="1666650207183" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.example.protienvisualizer.filemanagment.PdbFile" memberName="fileName" />
+        <PinnedItemInfo parentTag="com.example.protienvisualizer.filemanagment.PdbFile" memberName="lines" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((java.util.ArrayList)((Molecule)((HelloController)this.this$0).molecule).atoms).get(0)" custom="javafx.event.EventHandler,com.example.protienvisualizer.HelloController,com.example.protienvisualizer.model.Molecule,java.util.ArrayList" />
+        <watch expression="stats" />
+        <watch expression="series" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
